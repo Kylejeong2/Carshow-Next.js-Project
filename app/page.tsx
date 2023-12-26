@@ -7,7 +7,7 @@ export default function Home() {
       {/* Create the Hero Section */}
       <Hero />
 
-      
+       
     </main>
   )
 }
